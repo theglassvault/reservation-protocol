@@ -1,0 +1,1 @@
+# TSE decay logic (placeholder)
